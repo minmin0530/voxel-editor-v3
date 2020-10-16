@@ -20,3 +20,5 @@
   
 保存データ形式  
 - json  
+## バージョン２のリンク
+[http://ik1-314-17143.vs.sakura.ne.jp/](http://ik1-314-17143.vs.sakura.ne.jp/)
