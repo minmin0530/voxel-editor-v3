@@ -7,4 +7,14 @@
 開発して楽しい  
 ボクセルを作って楽しい  
 他人を巻き込んで楽しい  
-![mario](mario.png "mario")
+<img src="mario.png" width="50%">  
+## 仕様
+サーバ側  
+- Node.js
+- Socket.io
+- MongoDB
+フロント側  
+- javascript
+- three.js
+保存データ形式  
+- json
