@@ -21,4 +21,5 @@
 保存データ形式  
 - json  
 ## バージョン２のリンク
-[http://ik1-314-17143.vs.sakura.ne.jp/](http://ik1-314-17143.vs.sakura.ne.jp/)
+[http://ik1-314-17143.vs.sakura.ne.jp/](http://ik1-314-17143.vs.sakura.ne.jp/)  
+[バージョン２のリポジトリ](https://github.com/minmin0530/network-voxel-editor)
